@@ -1,0 +1,12 @@
+footer {
+  height: 100px;
+  text-align: center;
+  border-top: 2px solid #f0a500;
+  color: white;
+  padding: 10px;
+  background-color: rgb(18, 18, 18);
+}
+footer p {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 16px;
+}
