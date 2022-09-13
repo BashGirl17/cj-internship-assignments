@@ -8,7 +8,6 @@ function App() {
     <div className="App">
       <Navbar />
       <div>
-        <div class="banner"></div>
         <div class="movie_list">
           <MovieCard />
           <MovieCard />
